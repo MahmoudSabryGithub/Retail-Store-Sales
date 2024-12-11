@@ -16,7 +16,7 @@ This repository contains a comprehensive project for analyzing and predicting re
 #### Uncovered key trends and patterns influencing sales and profits.
 ### 3. Visualization
 #### Created interactive dashboards in Tableau to: 
-[https://public.tableau.com/views/RetailStoreSales_17337515700970/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+[Dashboard link](https://public.tableau.com/views/RetailStoreSales_17337515700970/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 #### Visualize sales trends, regional performance, and category-level insights.
 #### Share findings in an intuitive, business-friendly format.
 ### 4. Predictive Modeling
