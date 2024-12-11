@@ -4,27 +4,26 @@ This repository contains a comprehensive project for analyzing and predicting re
 
 ## _Project Workflow_
 ### 1. Data Cleaning
-#### Used SQL & Python for:
-#### Cleaning raw sales data.
-#### Structuring and organizing datasets.
-#### Performing initial exploratory queries.
-#### Addressed missing values, outliers, and inconsistencies in the dataset.
+#### -Used SQL & Python for:
+#### -Cleaning raw sales data.
+#### -Structuring and organizing datasets.
+#### -Performing initial exploratory queries.
+#### -Addressed missing values, outliers, and inconsistencies in the dataset.
 ### 2. Data Analysis
-#### Leveraged Python for:
-#### Cleaning raw sales data.
-#### Exploratory Data Analysis (EDA) using libraries like pandas, seaborn, and matplotlib.
-#### Uncovered key trends and patterns influencing sales and profits.
+#### -Leveraged Python for:
+#### -Cleaning raw sales data.
+#### -Exploratory Data Analysis (EDA) using libraries like pandas, seaborn, and matplotlib.
+#### -Uncovered key trends and patterns influencing sales and profits.
 ### 3. Visualization
-#### Created interactive dashboards in Tableau to: 
-[Dashboard link](https://public.tableau.com/views/RetailStoreSales_17337515700970/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-#### Visualize sales trends, regional performance, and category-level insights.
-#### Share findings in an intuitive, business-friendly format.
+#### -Created interactive dashboards in Tableau to: [Dashboard](https://public.tableau.com/views/RetailStoreSales_17337515700970/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### -Visualize sales trends, regional performance, and category-level insights.
+#### -Share findings in an intuitive, business-friendly format.
 ### 4. Predictive Modeling
-#### Developed machine learning models in Python to forecast profits:
-#### Linear Regression for baseline predictions.
-#### Random Forest for handling non-linear patterns and feature interactions.
+#### -Developed machine learning models in Python to forecast profits:
+#### -Linear Regression for baseline predictions.
+#### -Random Forest for handling non-linear patterns and feature interactions.
 ### 5. Evaluated models using metrics such as:
-#### Mean Absolute Error (MAE).
-#### Mean Squared Error (MSE).
+#### -Mean Absolute Error (MAE).
+#### -Mean Squared Error (MSE).
 
 
