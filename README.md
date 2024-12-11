@@ -1,8 +1,8 @@
-# Retail Store Sales
-### Overview
+# _Retail Store Sales_
+## _Overview_
 This repository contains a comprehensive project for analyzing and predicting retail store profits. The project integrates SQL, Python, and Tableau to clean, analyze, visualize data, and build predictive models. The goal is to provide actionable insights to improve decision-making and optimize profits in retail settings.
 
-Project Workflow
+## _Project Workflow_
 1. Data Cleaning
 Used SQL for:
 Cleaning raw sales data.
@@ -23,3 +23,5 @@ Random Forest for handling non-linear patterns and feature interactions.
 Evaluated models using metrics such as:
 Mean Absolute Error (MAE).
 Mean Squared Error (MSE).
+
+
