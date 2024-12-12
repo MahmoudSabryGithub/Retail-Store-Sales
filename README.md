@@ -4,7 +4,7 @@ This repository contains a comprehensive project for analyzing and predicting re
 
 ## _Project Workflow_
 ### 1. Data Cleaning
-#### - Used SQL & Python for:
+#### * Used SQL & Python for:
 #### - Cleaning raw sales data.
 #### - Structuring and organizing datasets.
 #### - Performing initial exploratory queries.
